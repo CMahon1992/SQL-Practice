@@ -1,0 +1,84 @@
+Invoice Date,Billing Address,Billing City,Total
+2009-01-03 00:00:00,Grétrystraat 63,Brussels,5.94
+2009-01-11 00:00:00,69 Salem Street,Boston,13.86
+2009-02-01 00:00:00,Barbarossastraße 19,Berlin,1.98
+2009-02-02 00:00:00,"9, Place Louis Barthou",Bordeaux,3.96
+2009-02-03 00:00:00,3 Chatham Street,Dublin,5.94
+2009-03-22 00:00:00,110 Raeburn Pl,Edinburgh ,0.99
+2009-04-05 00:00:00,"3,Raj Bhavan Road",Bangalore,3.96
+2009-05-05 00:00:00,Rua da Assunção 53,Lisbon,1.98
+2009-05-05 00:00:00,Tauentzienstraße 8,Berlin,1.98
+2009-05-06 00:00:00,Barbarossastraße 19,Berlin,3.96
+2009-05-07 00:00:00,"9, Place Louis Barthou",Bordeaux,5.94
+2009-06-05 00:00:00,Qe 7 Bloco G,Brasília,1.98
+2009-06-15 00:00:00,Tauentzienstraße 8,Berlin,13.86
+2009-07-08 00:00:00,"3,Raj Bhavan Road",Bangalore,5.94
+2009-08-07 00:00:00,Rua da Assunção 53,Lisbon,3.96
+2009-08-08 00:00:00,Barbarossastraße 19,Berlin,5.94
+2009-08-24 00:00:00,Grétrystraat 63,Brussels,0.99
+2009-09-07 00:00:00,Qe 7 Bloco G,Brasília,3.96
+2009-09-11 00:00:00,69 Salem Street,Boston,8.91
+2009-09-24 00:00:00,3 Chatham Street,Dublin,0.99
+2009-11-09 00:00:00,Rua da Assunção 53,Lisbon,5.94
+2009-12-10 00:00:00,Qe 7 Bloco G,Brasília,5.94
+2009-12-26 00:00:00,"9, Place Louis Barthou",Bordeaux,0.99
+2010-01-08 00:00:00,Erzsébet krt. 58.,Budapest,1.98
+2010-02-13 00:00:00,Tauentzienstraße 8,Berlin,8.91
+2010-02-18 00:00:00,Erzsébet krt. 58.,Budapest,21.86
+2010-02-26 00:00:00,"3,Raj Bhavan Road",Bangalore,1.99
+2010-03-29 00:00:00,Barbarossastraße 19,Berlin,0.99
+2010-06-12 00:00:00,307 Macacha Güemes,Buenos Aires,1.98
+2010-06-30 00:00:00,Rua da Assunção 53,Lisbon,0.99
+2010-07-31 00:00:00,Qe 7 Bloco G,Brasília,0.99
+2010-09-13 00:00:00,110 Raeburn Pl,Edinburgh ,1.98
+2010-09-14 00:00:00,307 Macacha Güemes,Buenos Aires,3.96
+2010-10-19 00:00:00,Erzsébet krt. 58.,Budapest,8.91
+2010-10-24 00:00:00,110 Raeburn Pl,Edinburgh ,13.86
+2010-12-17 00:00:00,307 Macacha Güemes,Buenos Aires,5.94
+2011-02-15 00:00:00,Grétrystraat 63,Brussels,1.98
+2011-03-18 00:00:00,3 Chatham Street,Dublin,1.98
+2011-03-28 00:00:00,Grétrystraat 63,Brussels,13.86
+2011-04-18 00:00:00,69 Salem Street,Boston,1.98
+2011-04-28 00:00:00,3 Chatham Street,Dublin,21.86
+2011-06-19 00:00:00,"9, Place Louis Barthou",Bordeaux,3.98
+2011-06-24 00:00:00,110 Raeburn Pl,Edinburgh ,8.91
+2011-07-21 00:00:00,69 Salem Street,Boston,3.96
+2011-07-30 00:00:00,"9, Place Louis Barthou",Bordeaux,13.86
+2011-08-07 00:00:00,307 Macacha Güemes,Buenos Aires,0.99
+2011-08-20 00:00:00,"3,Raj Bhavan Road",Bangalore,1.98
+2011-09-20 00:00:00,Tauentzienstraße 8,Berlin,1.98
+2011-09-20 00:00:00,Barbarossastraße 19,Berlin,1.98
+2011-09-30 00:00:00,"3,Raj Bhavan Road",Bangalore,13.86
+2011-10-23 00:00:00,69 Salem Street,Boston,5.94
+2011-10-31 00:00:00,Barbarossastraße 19,Berlin,13.86
+2011-11-26 00:00:00,Grétrystraat 63,Brussels,8.91
+2011-12-22 00:00:00,Rua da Assunção 53,Lisbon,1.98
+2011-12-23 00:00:00,Tauentzienstraße 8,Berlin,3.96
+2011-12-27 00:00:00,3 Chatham Street,Dublin,8.91
+2012-01-22 00:00:00,Qe 7 Bloco G,Brasília,1.98
+2012-02-01 00:00:00,Rua da Assunção 53,Lisbon,13.86
+2012-03-03 00:00:00,Qe 7 Bloco G,Brasília,13.86
+2012-03-26 00:00:00,Tauentzienstraße 8,Berlin,5.94
+2012-03-29 00:00:00,"9, Place Louis Barthou",Bordeaux,8.91
+2012-05-25 00:00:00,Erzsébet krt. 58.,Budapest,1.98
+2012-05-30 00:00:00,"3,Raj Bhavan Road",Bangalore,8.91
+2012-06-12 00:00:00,69 Salem Street,Boston,0.99
+2012-06-30 00:00:00,Barbarossastraße 19,Berlin,8.91
+2012-08-27 00:00:00,Erzsébet krt. 58.,Budapest,3.96
+2012-10-01 00:00:00,Rua da Assunção 53,Lisbon,10.91
+2012-11-01 00:00:00,Qe 7 Bloco G,Brasília,8.91
+2012-11-14 00:00:00,Tauentzienstraße 8,Berlin,0.99
+2012-11-29 00:00:00,Erzsébet krt. 58.,Budapest,5.94
+2013-01-28 00:00:00,110 Raeburn Pl,Edinburgh ,1.98
+2013-01-28 00:00:00,307 Macacha Güemes,Buenos Aires,1.98
+2013-03-10 00:00:00,307 Macacha Güemes,Buenos Aires,13.86
+2013-05-02 00:00:00,110 Raeburn Pl,Edinburgh ,3.96
+2013-07-02 00:00:00,Grétrystraat 63,Brussels,1.98
+2013-07-20 00:00:00,Erzsébet krt. 58.,Budapest,0.99
+2013-08-02 00:00:00,3 Chatham Street,Dublin,1.98
+2013-08-04 00:00:00,110 Raeburn Pl,Edinburgh ,5.94
+2013-10-04 00:00:00,Grétrystraat 63,Brussels,3.96
+2013-11-03 00:00:00,"9, Place Louis Barthou",Bordeaux,1.98
+2013-11-04 00:00:00,3 Chatham Street,Dublin,3.96
+2013-11-08 00:00:00,307 Macacha Güemes,Buenos Aires,8.91
+2013-12-04 00:00:00,69 Salem Street,Boston,1.98
