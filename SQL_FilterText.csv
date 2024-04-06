@@ -1,0 +1,29 @@
+Invoice Date,Billing Address,Billing City,Total
+2009-01-03 00:00:00,Grétrystraat 63,Brussels,5.94
+2009-02-01 00:00:00,"8, Rue Hanovre",Paris,1.98
+2009-03-14 00:00:00,"8, Rue Hanovre",Paris,13.86
+2009-08-24 00:00:00,Grétrystraat 63,Brussels,0.99
+2009-11-12 00:00:00,"8, Rue Hanovre",Paris,8.91
+2010-02-08 00:00:00,120 S Orange Ave,Orlando,1.98
+2010-04-11 00:00:00,"4, Rue Milton",Paris,1.98
+2010-05-13 00:00:00,120 S Orange Ave,Orlando,3.96
+2010-07-14 00:00:00,"4, Rue Milton",Paris,3.96
+2010-08-15 00:00:00,120 S Orange Ave,Orlando,5.94
+2010-10-16 00:00:00,"4, Rue Milton",Paris,5.94
+2011-02-15 00:00:00,Grétrystraat 63,Brussels,1.98
+2011-03-28 00:00:00,Grétrystraat 63,Brussels,13.86
+2011-04-05 00:00:00,120 S Orange Ave,Orlando,0.99
+2011-06-06 00:00:00,"4, Rue Milton",Paris,1.99
+2011-06-19 00:00:00,"8, Rue Hanovre",Paris,2.98
+2011-09-21 00:00:00,"8, Rue Hanovre",Paris,3.96
+2011-11-26 00:00:00,Grétrystraat 63,Brussels,8.91
+2011-12-24 00:00:00,"8, Rue Hanovre",Paris,5.94
+2012-08-13 00:00:00,"8, Rue Hanovre",Paris,0.99
+2012-09-26 00:00:00,120 S Orange Ave,Orlando,3.98
+2012-11-06 00:00:00,120 S Orange Ave,Orlando,13.86
+2012-11-27 00:00:00,"4, Rue Milton",Paris,1.98
+2013-01-07 00:00:00,"4, Rue Milton",Paris,13.86
+2013-07-02 00:00:00,Grétrystraat 63,Brussels,1.98
+2013-07-07 00:00:00,120 S Orange Ave,Orlando,8.91
+2013-09-07 00:00:00,"4, Rue Milton",Paris,8.91
+2013-10-04 00:00:00,Grétrystraat 63,Brussels,3.96
