@@ -1,0 +1,162 @@
+InvoiceDate,BillingAddress,BillingCity
+2012-01-22 00:00:00,"Av. Paulista, 2022",São Paulo
+2012-01-22 00:00:00,Qe 7 Bloco G,Brasília
+2012-01-23 00:00:00,700 W Pender Street,Vancouver
+2012-01-24 00:00:00,1 Infinite Loop,Cupertino
+2012-01-27 00:00:00,319 N. Frances Street,Madison
+2012-02-01 00:00:00,Rua da Assunção 53,Lisbon
+2012-02-09 00:00:00,Lijnbaansgracht 120bg,Amsterdam
+2012-02-22 00:00:00,Ordynacka 10,Warsaw
+2012-02-22 00:00:00,Celsiusg. 9,Stockholm
+2012-02-23 00:00:00,113 Lupus St,London
+2012-02-24 00:00:00,"Calle Lira, 198",Santiago
+2012-02-27 00:00:00,Ullevålsveien 14,Oslo
+2012-03-03 00:00:00,Qe 7 Bloco G,Brasília
+2012-03-11 00:00:00,1033 N Park Ave,Tucson
+2012-03-24 00:00:00,302 S 700 E,Salt Lake City
+2012-03-24 00:00:00,230 Elgin Street,Ottawa
+2012-03-25 00:00:00,696 Osborne Street,Winnipeg
+2012-03-26 00:00:00,Tauentzienstraße 8,Berlin
+2012-03-29 00:00:00,"9, Place Louis Barthou",Bordeaux
+2012-04-03 00:00:00,Celsiusg. 9,Stockholm
+2012-04-11 00:00:00,Rilská 3174/6,Prague
+2012-04-24 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne
+2012-04-24 00:00:00,Sønder Boulevard 51,Copenhagen
+2012-04-25 00:00:00,"Av. Paulista, 2022",São Paulo
+2012-04-26 00:00:00,700 W Pender Street,Vancouver
+2012-04-29 00:00:00,801 W 4th Street,Reno
+2012-05-04 00:00:00,230 Elgin Street,Ottawa
+2012-05-12 00:00:00,Porthaninkatu 9,Helsinki
+2012-05-25 00:00:00,Erzsébet krt. 58.,Budapest
+2012-05-25 00:00:00,"Via Degli Scipioni, 43",Rome
+2012-05-26 00:00:00,Ordynacka 10,Warsaw
+2012-05-27 00:00:00,113 Lupus St,London
+2012-05-30 00:00:00,"3,Raj Bhavan Road",Bangalore
+2012-06-04 00:00:00,Sønder Boulevard 51,Copenhagen
+2012-06-12 00:00:00,69 Salem Street,Boston
+2012-06-25 00:00:00,162 E Superior Street,Chicago
+2012-06-25 00:00:00,2211 W Berry Street,Fort Worth
+2012-06-26 00:00:00,302 S 700 E,Salt Lake City
+2012-06-27 00:00:00,696 Osborne Street,Winnipeg
+2012-06-30 00:00:00,Barbarossastraße 19,Berlin
+2012-07-05 00:00:00,"Via Degli Scipioni, 43",Rome
+2012-07-13 00:00:00,Theodor-Heuss-Straße 34,Stuttgart
+2012-07-26 00:00:00,1498 rue Bélanger,Montréal
+2012-07-26 00:00:00,Klanova 9/506,Prague
+2012-07-27 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne
+2012-07-28 00:00:00,"Av. Paulista, 2022",São Paulo
+2012-07-31 00:00:00,1 Microsoft Way,Redmond
+2012-08-05 00:00:00,2211 W Berry Street,Fort Worth
+2012-08-13 00:00:00,"8, Rue Hanovre",Paris
+2012-08-26 00:00:00,"11, Place Bellecour",Lyon
+2012-08-26 00:00:00,"68, Rue Jouvence",Dijon
+2012-08-27 00:00:00,Erzsébet krt. 58.,Budapest
+2012-08-28 00:00:00,Ordynacka 10,Warsaw
+2012-08-31 00:00:00,421 Bourke Street,Sidney
+2012-09-05 00:00:00,Klanova 9/506,Prague
+2012-09-13 00:00:00,1 Infinite Loop,Cupertino
+2012-09-26 00:00:00,541 Del Medio Avenue,Mountain View
+2012-09-26 00:00:00,120 S Orange Ave,Orlando
+2012-09-27 00:00:00,162 E Superior Street,Chicago
+2012-09-28 00:00:00,302 S 700 E,Salt Lake City
+2012-10-01 00:00:00,Rua da Assunção 53,Lisbon
+2012-10-06 00:00:00,"68, Rue Jouvence",Dijon
+2012-10-14 00:00:00,"Calle Lira, 198",Santiago
+2012-10-27 00:00:00,"12,Community Centre",Delhi
+2012-10-27 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos
+2012-10-28 00:00:00,1498 rue Bélanger,Montréal
+2012-10-29 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne
+2012-11-01 00:00:00,Qe 7 Bloco G,Brasília
+2012-11-06 00:00:00,120 S Orange Ave,Orlando
+2012-11-14 00:00:00,Tauentzienstraße 8,Berlin
+2012-11-27 00:00:00,Berger Straße 10,Frankfurt
+2012-11-27 00:00:00,"4, Rue Milton",Paris
+2012-11-28 00:00:00,"11, Place Bellecour",Lyon
+2012-11-29 00:00:00,Erzsébet krt. 58.,Budapest
+2012-12-02 00:00:00,Celsiusg. 9,Stockholm
+2012-12-07 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos
+2012-12-15 00:00:00,700 W Pender Street,Vancouver
+2012-12-28 00:00:00,1600 Amphitheatre Parkway,Mountain View
+2012-12-28 00:00:00,627 Broadway,New York
+2012-12-29 00:00:00,541 Del Medio Avenue,Mountain View
+2012-12-30 00:00:00,162 E Superior Street,Chicago
+2013-01-02 00:00:00,230 Elgin Street,Ottawa
+2013-01-07 00:00:00,"4, Rue Milton",Paris
+2013-01-15 00:00:00,113 Lupus St,London
+2013-01-28 00:00:00,110 Raeburn Pl,Edinburgh 
+2013-01-28 00:00:00,307 Macacha Güemes,Buenos Aires
+2013-01-29 00:00:00,"12,Community Centre",Delhi
+2013-01-30 00:00:00,1498 rue Bélanger,Montréal
+2013-02-02 00:00:00,Sønder Boulevard 51,Copenhagen
+2013-02-07 00:00:00,627 Broadway,New York
+2013-02-15 00:00:00,696 Osborne Street,Winnipeg
+2013-02-28 00:00:00,5112 48 Street,Yellowknife
+2013-02-28 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto
+2013-03-01 00:00:00,Berger Straße 10,Frankfurt
+2013-03-02 00:00:00,"11, Place Bellecour",Lyon
+2013-03-05 00:00:00,"Via Degli Scipioni, 43",Rome
+2013-03-10 00:00:00,307 Macacha Güemes,Buenos Aires
+2013-03-18 00:00:00,"Av. Paulista, 2022",São Paulo
+2013-03-31 00:00:00,"Praça Pio X, 119",Rio de Janeiro
+2013-03-31 00:00:00,8210 111 ST NW,Edmonton
+2013-04-01 00:00:00,1600 Amphitheatre Parkway,Mountain View
+2013-04-02 00:00:00,541 Del Medio Avenue,Mountain View
+2013-04-05 00:00:00,2211 W Berry Street,Fort Worth
+2013-04-10 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto
+2013-04-18 00:00:00,Ordynacka 10,Warsaw
+2013-05-01 00:00:00,C/ San Bernardo 85,Madrid
+2013-05-01 00:00:00,202 Hoxton Street,London
+2013-05-02 00:00:00,110 Raeburn Pl,Edinburgh 
+2013-05-03 00:00:00,"12,Community Centre",Delhi
+2013-05-06 00:00:00,Klanova 9/506,Prague
+2013-05-11 00:00:00,8210 111 ST NW,Edmonton
+2013-05-19 00:00:00,302 S 700 E,Salt Lake City
+2013-06-01 00:00:00,796 Dundas Street West,Toronto
+2013-06-01 00:00:00,194A Chain Lake Drive,Halifax
+2013-06-02 00:00:00,5112 48 Street,Yellowknife
+2013-06-03 00:00:00,Berger Straße 10,Frankfurt
+2013-06-06 00:00:00,"68, Rue Jouvence",Dijon
+2013-06-11 00:00:00,202 Hoxton Street,London
+2013-06-19 00:00:00,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne
+2013-07-02 00:00:00,Grétrystraat 63,Brussels
+2013-07-02 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo
+2013-07-03 00:00:00,"Praça Pio X, 119",Rio de Janeiro
+2013-07-04 00:00:00,1600 Amphitheatre Parkway,Mountain View
+2013-07-07 00:00:00,120 S Orange Ave,Orlando
+2013-07-12 00:00:00,194A Chain Lake Drive,Halifax
+2013-07-20 00:00:00,Erzsébet krt. 58.,Budapest
+2013-08-02 00:00:00,3 Chatham Street,Dublin
+2013-08-02 00:00:00,Lijnbaansgracht 120bg,Amsterdam
+2013-08-03 00:00:00,C/ San Bernardo 85,Madrid
+2013-08-04 00:00:00,110 Raeburn Pl,Edinburgh 
+2013-08-07 00:00:00,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos
+2013-08-12 00:00:00,"Rua Dr. Falcão Filho, 155",São Paulo
+2013-08-20 00:00:00,162 E Superior Street,Chicago
+2013-09-02 00:00:00,319 N. Frances Street,Madison
+2013-09-02 00:00:00,1033 N Park Ave,Tucson
+2013-09-03 00:00:00,796 Dundas Street West,Toronto
+2013-09-04 00:00:00,5112 48 Street,Yellowknife
+2013-09-07 00:00:00,"4, Rue Milton",Paris
+2013-09-12 00:00:00,Lijnbaansgracht 120bg,Amsterdam
+2013-09-20 00:00:00,1498 rue Bélanger,Montréal
+2013-10-03 00:00:00,Ullevålsveien 14,Oslo
+2013-10-03 00:00:00,Rilská 3174/6,Prague
+2013-10-04 00:00:00,Grétrystraat 63,Brussels
+2013-10-05 00:00:00,"Praça Pio X, 119",Rio de Janeiro
+2013-10-08 00:00:00,627 Broadway,New York
+2013-10-13 00:00:00,1033 N Park Ave,Tucson
+2013-10-21 00:00:00,"11, Place Bellecour",Lyon
+2013-11-03 00:00:00,"9, Place Louis Barthou",Bordeaux
+2013-11-03 00:00:00,Porthaninkatu 9,Helsinki
+2013-11-04 00:00:00,3 Chatham Street,Dublin
+2013-11-05 00:00:00,C/ San Bernardo 85,Madrid
+2013-11-08 00:00:00,307 Macacha Güemes,Buenos Aires
+2013-11-13 00:00:00,Rilská 3174/6,Prague
+2013-11-21 00:00:00,541 Del Medio Avenue,Mountain View
+2013-12-04 00:00:00,801 W 4th Street,Reno
+2013-12-04 00:00:00,69 Salem Street,Boston
+2013-12-05 00:00:00,319 N. Frances Street,Madison
+2013-12-06 00:00:00,796 Dundas Street West,Toronto
+2013-12-09 00:00:00,"Rua dos Campeões Europeus de Viena, 4350",Porto
+2013-12-14 00:00:00,Porthaninkatu 9,Helsinki
+2013-12-22 00:00:00,"12,Community Centre",Delhi
